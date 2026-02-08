@@ -164,9 +164,3 @@
 
 
 };
-
-// <central>.overlay
-&split_listener {
-    status = "okay";
-    input-processors = <&my_rip>;
-};
